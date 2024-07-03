@@ -5,4 +5,5 @@ This is a placeholder wiki, which will eventually be replaced with user-facing d
 
 .. toctree::
   :maxdepth: 2
+  
   page2
